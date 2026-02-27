@@ -1,4 +1,4 @@
-# LAHacks 2026 - Agent Link Validator API
+# DiamondHacks 2026 - Agent Link Validator API
 
 A REST API to validate asi1.ai agent profile links submitted by users on the portal.
 
