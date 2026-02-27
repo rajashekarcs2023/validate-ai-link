@@ -7,8 +7,8 @@ A REST API to validate asi1.ai agent profile links submitted by users on the por
 ## Setup
 
 ```bash
-python -m venv la-venv
-source la-venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
